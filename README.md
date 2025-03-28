@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm SANDEEP GUPTA COMPUTER INSTRUCTOR</h1>
-<h3 align="center">A Accointing or Bookkeeping on-line in QuickBooks & Xero from India</h3>
+<h1 align="center">Hi 👋, I'M SANDEEP GUPTA COMPUTER INSTRUCTOR</h1>
+<h3 align="center">A Accounting or Bookkeeping on-line in QuickBooks & Xero from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
